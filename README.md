@@ -27,7 +27,7 @@ Takım X
 
 ## Hedef Kitle
 
-- Mobil oyun kitlesi
+- Hızlı oynanılacak oyun seven mobil oyuncular
 - Yolda vakit geçiren insanlar
 - 15 - 65 yaş arası kullanıcılar
 
