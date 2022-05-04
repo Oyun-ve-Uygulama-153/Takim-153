@@ -12,30 +12,28 @@ Takım X
 
 ## Ürün İsmi
 
---Movie App--
+--Bounce It!--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Bounce It! oyunu yolculuklarda, boş zamanlarda hızlı bir şekilde oynayabileceğiniz, farklı aşamalardan oluşan puan bazlı duvarlara top çarptırarak puan kazanacağınız bir oyundur.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Bölümler ile değişen duvar şekilleri ve özellikleri
+- Duvar modellerine göre değişen top hızı
+- Topu karşıladığınız zemine göre değişen özellikler
+- Kazandığınız puanlar ile alacağınız topu karşılama zeminleri ve özellikleri
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
+- Mobil oyun kitlesi
+- Yolda vakit geçiren insanlar
 - 15 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board]([Miro Backlog Board](https://miro.com/app/board/uXjVO3oVk_4=/?share_link_id=155278847454)
 
 ---
 
