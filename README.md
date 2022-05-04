@@ -1,4 +1,4 @@
-# Takim-153# **Takım İsmi**
+# Takim-153#
 
 Takım X
 
