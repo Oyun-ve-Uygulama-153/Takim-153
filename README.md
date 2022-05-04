@@ -8,7 +8,7 @@ Takım X
 
 - Furkan Pekel: Product Owner
 - Öykü Buse Yılmaz: Scrum Master
-- Gözde Akman, Ba: Team Member/Developer
+- Gözde Akman, Bağışcan Üzmez: Team Member/Developer
 
 ## Ürün İsmi
 
