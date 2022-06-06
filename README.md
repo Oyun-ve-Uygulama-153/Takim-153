@@ -12,18 +12,17 @@ Zuko Games
 
 ## Ürün İsmi
 
---Bounce It!--
+--Fly It!--
 
 ## Ürün Açıklaması
 
-- Bounce It! oyunu yolculuklarda, boş zamanlarda hızlı bir şekilde oynayabileceğiniz, farklı aşamalardan oluşan puan bazlı duvarlara top çarptırarak puan kazanacağınız bir oyundur.
+- Fly It! oyunu yolculuklarda, boş zamanlarda hızlı bir şekilde oynayabileceğiniz, farklı aşamalardan oluşan uçan bir kuşu yönlendirerek para ve kalp topladığınız, siyah kuşlardan kaçtığınız bir mobil oyundur.
 
 ## Ürün Özellikleri
 
-- Bölümler ile değişen duvar şekilleri ve özellikleri
-- Duvar modellerine göre değişen top hızı
-- Topu karşıladığınız zemine göre değişen özellikler
-- Kazandığınız puanlar ile alacağınız topu karşılama zeminleri ve özellikleri
+- Altın paraları toplamak
+- Siyah kuşlardan kaçmak
+- Kalp toplayarak ek can kazanmak, siyah kuşlara çarptığınızda kaybedebilecxeğiniz daha çok canınızın olmasını sağlamak
 
 ## Hedef Kitle
 
@@ -66,9 +65,55 @@ Zuko Games
 
 # Sprint 2
 
+- **Sprint Notları**: 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+
+- **Puan tamamlama mantığı**:
+
+- **Backlog düzeni ve Story seçimleri**:
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://drive.google.com/drive/folders/16EWZ_cByvjVQ9gmCy6qyA4rTSO7N_QW8?usp=sharing)
+
+- **Sprint board update**: 
+
+- **Ürün Durumu**: 
+
+- **Sprint Review**: 
+
+
+- **Sprint Retrospective:**
+
+
+-**Diğer Notlar**:
+- N/A
+
 
 ---
 
 # Sprint 3
+
+- **Sprint Notları**: 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+
+- **Puan tamamlama mantığı**:
+
+- **Backlog düzeni ve Story seçimleri**:
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://drive.google.com/drive/folders/16EWZ_cByvjVQ9gmCy6qyA4rTSO7N_QW8?usp=sharing)
+
+- **Sprint board update**: 
+
+- **Ürün Durumu**: 
+
+- **Sprint Review**: 
+
+
+- **Sprint Retrospective:**
+
+
+-**Diğer Notlar**:
+- N/A
 
 ---
